@@ -1,2 +1,2 @@
 # etsy's page
-<meta name="keyoxide" content="$argon2id$v=19$m=512,t=256,p=1$aiULT16Zl/9rhAmjAakIdg$TGVAd/CLAfSHuqNLOsS7v3OGOByoldm7EseZ9waWTOw">
+<meta name="keyoxide" content="https://keyoxide.org/aspe:keyoxide.org:RNX4QRHFIGXVOREJ6T5K7G72NI">
